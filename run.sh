@@ -1,0 +1,1 @@
+go build -o pokedex cmd/cli/main.go && ./pokedex
